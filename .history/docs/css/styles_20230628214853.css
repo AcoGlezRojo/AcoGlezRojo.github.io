@@ -1,0 +1,31 @@
+.header {
+    background: url(https://annedece.sirv.com/Images/Wave-10s-1920px.png) no-repeat center top;
+}
+
+.circle_icon {
+    top: -30px;
+    left: -10px;
+    position: absolute;
+    background-color: #FFF;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle_icon i {
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+
+.border-radius-20 {
+    border-radius: 20px;
+}
+
+.fs-4 {
+    font-size: 54px;
+}
